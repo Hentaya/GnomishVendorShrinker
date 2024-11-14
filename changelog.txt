@@ -1,3 +1,6 @@
+### 11.0.5.00-Alpha
+* updating the toc 
+
 ### 7.0.0.23-Beta
 
 * Fix issues with sightless eye vendor
