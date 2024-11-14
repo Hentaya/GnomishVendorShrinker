@@ -1,10 +1,16 @@
-## Interface: 70000
+## Interface: 110002, 110005, 110007
 
 ## Title: GnomishVendorShrinker
 ## Notes: Compact scrolling vendor frame
 ## Author: Tekkub Stoutwrithe
+## Author.Interface 11*: Hentaya Goldenelm
+## Version: 11.0.5 (v20241114alpha)
 ## X-Category: Misc
 ## X-Icon: Interface\Icons\INV_Misc_Toy_07
+## X-Website:
+## X-AddonProvider: 
+## X-Curse-Project-ID: 
+## X-Wago-ID: 
 
 ## LoadManagers: AddonLoader
 ## X-LoadOn-Merchant: true
